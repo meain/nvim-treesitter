@@ -63,7 +63,7 @@
     "revision": "04e54ab6585dfd4fee6ddfe5849af56f101b6d4f"
   },
   "fortran": {
-    "revision": "0aab09259daafc6089eb0e68a5238ccc3bdf83fc"
+    "revision": "f0f2f100952a353e64e26b0fa710b4c296d7af13"
   },
   "gdscript": {
     "revision": "59e7e41e186d3759592e9938291f69055200783f"
@@ -141,7 +141,7 @@
     "revision": "ac1d5957e719d49bd6acd27439b79843e4daf8ed"
   },
   "php": {
-    "revision": "50c6951130d6de7f8e17dd4f60b66f29d482dde1"
+    "revision": "77d98f3ce47ea52ff39137be29bc6376951c2286"
   },
   "pioasm": {
     "revision": "924aadaf5dea2a6074d72027b064f939acf32e20"
